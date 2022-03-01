@@ -51,14 +51,14 @@
 
 ### 📕 My best personal projects yet
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=Natours-Server-side-rendered-website)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=mapty)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=crown-clothin-contextAPI)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=blog-antropologiadelcuerpo)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=code-med-node-server)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=COVID-19-variants-analysis)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=Lorentz-Force-Simulator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=forkify)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=Natours-Server-side-rendered-website)](https://github.com/CesarJimenezVilleda02/Natours-Server-side-rendered-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=mapty)](https://github.com/CesarJimenezVilleda02/mapty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=crown-clothin-contextAPI)](https://github.com/CesarJimenezVilleda02/crown-clothin-contextAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=blog-antropologiadelcuerpo)](chttps://github.com/CesarJimenezVilleda02/blog-antropologiadelcuerpo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=code-med-node-server)](https://github.com/CesarJimenezVilleda02/code-med-node-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=COVID-19-variants-analysis)](https://github.com/CesarJimenezVilleda02/COVID-19-variants-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=Lorentz-Force-Simulator)](https://github.com/CesarJimenezVilleda02/Lorentz-Force-Simulator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CesarJimenezVilleda02&repo=forkify)](https://github.com/CesarJimenezVilleda02/forkify)
 
 ### 📕 Top Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarJimenezVilleda02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
