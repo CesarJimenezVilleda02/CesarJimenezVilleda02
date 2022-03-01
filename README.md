@@ -1,13 +1,14 @@
 # Hi there, I'm Cesar - aka CesarJimenezVilleda02 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=buhocode.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://buhocode.com)
+[![Website](https://img.shields.io/website?label=cesarjimenez.netlify.app/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cesarjimenez.netlify.app/)
+[![Website](https://img.shields.io/website?label=CoolVideogame&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://alien-slayer.netlify.app/)
 
+# I'm a student, teacher, SDE intern in summer 2022 and entrepenour
 ## I'm pursuing a Bachelors In Computer Science!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to change people's lives by making great software
 - 🥅 2022 Goals: Learn Rust and mobile development
 - ⚡ Fun fact: I love to teach and share the things I love!
 
@@ -16,8 +17,8 @@
 [![website](./img/globe-light.svg)](https://buhocode.com/)
 [![website](./img/globe-dark.svg)](https://buhocode.com/)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pablo-c%C3%A9sar-jim%C3%A9nez-villeda-softwaredeveloper#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pablo-c%C3%A9sar-jim%C3%A9nez-villeda-softwaredeveloper#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/cesarjimenez6163#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/cesarjimenez6163#gh-dark-mode-only)
