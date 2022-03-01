@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=cesarjimenez.netlify.app/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://cesarjimenez.netlify.app/)
 [![Website](https://img.shields.io/website?label=CoolVideogame&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://alien-slayer.netlify.app/)
 
-# I'm a student, teacher, SWE intern in summer 2022 and entrepenour
+# I'm a student, teacher, SWE intern for the summer of 2022 at Microsoft and entrepenour
 ## I'm pursuing a Bachelors In Computer Science!!
 
 - 🌱 I’m currently learning everything 🤣
